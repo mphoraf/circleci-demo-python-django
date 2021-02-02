@@ -6,7 +6,7 @@ This is an example application showcasing how to build test and deploy a Django 
 
 You can follow along with this project by reading the [documentation](https://circleci.com/docs/2.0/language-python/).
 
-## Features of the demo
+## Features of the demos
 
 - regularly updated to use latest Python and Django (currently Python 3.6.4 and Django 2.0.1)
 - uses [pipenv](http://pipenv.readthedocs.io/en/latest/) to install and manage dependencies and virtualenvs on CircleCI
